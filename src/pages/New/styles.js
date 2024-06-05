@@ -10,7 +10,7 @@ export const Container = styled.div`
 
   grid-template-areas: 
   "header"
-  "Content";
+  "content";
 
   >main{
     grid-area: content;
